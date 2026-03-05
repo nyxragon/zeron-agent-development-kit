@@ -1,6 +1,9 @@
 site_name: ZAK Developer Docs
+site_url: https://securezeron.github.io/zeron-agent-development-kit/
 site_description: Zeron Agentic Kit — Cyber Risk Management Agent Development Kit
 site_author: Zeron
+repo_url: https://github.com/securezeron/zeron-agent-development-kit
+repo_name: securezeron/zeron-agent-development-kit
 
 docs_dir: docs
 
