@@ -22,13 +22,13 @@ theme:
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
+  logo: assets/images/zak-adk-white.png
+  favicon: assets/images/zak-icon-dark.png
   features:
     - navigation.tabs
     - navigation.top
     - content.code.copy
     - search.highlight
-  icon:
-    logo: material/shield-lock
 
 nav:
   - Home: index.md

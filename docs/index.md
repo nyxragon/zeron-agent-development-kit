@@ -1,6 +1,10 @@
+<p align="center">
+  <img src="assets/images/zak-adk-primary.png" alt="ZAK — Zeron Agent Development Kit" height="60" />
+</p>
+
 # ZAK Documentation
 
-**ZAK** is the **Zeron Agentic Kit — Cyber Risk Management ADK** — a Python SDK for building, deploying, and governing autonomous cybersecurity agents.
+**ZAK** is the **Zeron Agent Development Kit** — a Python SDK for building, deploying, and governing autonomous cybersecurity agents.
 
 ---
 

@@ -1,8 +1,12 @@
-# ZAK — Zeron Agentic Kit
+<p align="center">
+  <img src="docs/assets/images/zak-adk-primary.png" alt="ZAK — Zeron Agent Development Kit" height="60" />
+</p>
 
-[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
-[![PyPI](https://img.shields.io/pypi/v/zin-adk.svg)](https://pypi.org/project/zin-adk/)
-[![Python](https://img.shields.io/pypi/pyversions/zin-adk.svg)](https://pypi.org/project/zin-adk/)
+<p align="center">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-Apache%202.0-blue.svg" alt="License" /></a>
+  <a href="https://pypi.org/project/zin-adk/"><img src="https://img.shields.io/pypi/v/zin-adk.svg" alt="PyPI" /></a>
+  <a href="https://pypi.org/project/zin-adk/"><img src="https://img.shields.io/pypi/pyversions/zin-adk.svg" alt="Python" /></a>
+</p>
 
 **ZAK** is an open-source **Agent Development Kit** for building, deploying, and governing autonomous cybersecurity agents.
 
